@@ -19,6 +19,7 @@
                 } 
             } 
             echo "</tr>"; echo "tite na malake";
+            echo "tite";
         } 
         ?> 
     </table> 
