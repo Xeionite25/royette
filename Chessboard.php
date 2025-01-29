@@ -20,6 +20,7 @@
             } 
             echo "</tr>"; echo "tite na malake";
             echo "tete na malake";
+            echo "teteng boorat";
         } 
         ?> 
     </table> 
